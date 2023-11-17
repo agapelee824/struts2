@@ -1,0 +1,1 @@
+http://localhost:8083/struts2/hello.action
